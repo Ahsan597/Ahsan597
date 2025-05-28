@@ -1,16 +1,16 @@
 Hi, I'm Ahsan Shafiq!
 
-🎯 Frontend Developer | 💻 React Enthusiast | 🚀 Passionate about Building Beautiful frontends
+Frontend Developer | 💻 React Enthusiast |  Passionate about Building Beautiful frontends
 
 Welcome to my GitHub! I'm a frontend developer who loves crafting responsive, modern, and scalable web interfaces using React and modern UI libraries.I can also work on Backend with Node.js and Express.js.
 
-🧠 About Me
+About Me
 - 🌐 Currently working as a **Frontend Developer**
 - 💼 Skilled in:
   - **Frontend**: React.js, Material UI, Tailwind CSS, HTML5, CSS3, JavaScript
   - **Backend**: Node.js, Express, MongoDB, MySQL
-- 🚀 Passionate about creating user-focused experiences and writing clean, maintainable code.
-- 🌱 Actively learning advanced React techniques and backend development to become a Full Stack Developer.
+-  Passionate about creating user-focused experiences and writing clean, maintainable code.
+-  Actively learning advanced React techniques and backend development to become a Full Stack Developer.
 
 ## 💻 Skills & Tools
 
@@ -29,10 +29,10 @@ Welcome to my GitHub! I'm a frontend developer who loves crafting responsive, mo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 
-📫 Connect With Me
+Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/ahsan-shafiq-a66947237
-- 🌐 Portfolio:
-- 📬 Email: ahsanshafiq115@gmail.com
+- LinkedIn: www.linkedin.com/in/ahsan-shafiq-a66947237
+- Portfolio:
+- Email: ahsanshafiq115@gmail.com
 
 Thanks for stopping by!_ 😊
