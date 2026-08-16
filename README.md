@@ -1,8 +1,8 @@
 Hi, I'm Ahsan Shafiq!
 
-Frontend Developer | 💻 React Enthusiast |  Passionate about Building Beautiful frontends
+Software Engineer | 💻 React Enthusiast |  Passionate about Building Beautiful frontends
 
-Welcome to my GitHub! I'm a frontend developer who loves crafting responsive, modern, and scalable web interfaces using React and modern UI libraries.I can also work on Backend with Node.js and Express.js.
+Welcome to my GitHub! I'm a Software Engineer who loves crafting responsive, modern, and scalable web interfaces using React and modern UI libraries.I can also work on Backend with Node.js and Express.js.
 
 About Me
 - 🌐 Currently working as a **Frontend Developer**
