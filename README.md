@@ -1,4 +1,4 @@
-👋 Hi, I'm Ahsan Shafiq, a Frontend Engineer with 2 years and 10 months of professional experience building scalable, responsive, and user-focused web applications.
+👋 Hi, I'm Ahsan Shafiq, a Frontend Engineer with 3 years of professional experience building scalable, responsive, and user-focused web applications.
 
 My primary expertise is in React.js, TypeScript, Next.js, JavaScript, Tailwind CSS, and Material UI, with a strong focus on clean architecture, reusable components, performance, responsive design, and solving complex frontend problems.
 
